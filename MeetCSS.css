@@ -1,0 +1,23 @@
+
+body {
+  background-color: #EAF6F6;
+}
+
+h1 {
+  color:#66BFBF
+}
+
+h3 {
+  color:#66BFBF;
+}
+
+hr {
+  border-style: none;
+  border-top: 5px dotted grey; /* first value sets border's width,2nd for border-style and 3rd for border's color*/
+  width: 5%;
+}
+
+.profilephoto {
+  width: 190px;
+  height: 190px;
+}
